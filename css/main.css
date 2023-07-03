@@ -2,25 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@700&family=Playfair+Display:wght@900&family=Poppins:wght@400;500;600&display=swap');
 /*Variáveis para cores*/
 :root{
-    /*
-    Opção 1 (verde-azulado e preto):
-    --primary-color: #20424f;
-    --second-color: #111;
-    Opção 2 (laranja e amarelo)
-    --primary-color: #ff6429;
-    --second-color: #e8a825;
-    Opção 3(vermelho e laranja)
-    --primary-color: #da2a0b;
-    --second-color: #a64f03;
-    Opcao 4(vermelho e azul)
-    --primary-color: #1790bf;
-    --second-color: #f23545;
-    Opcao 5(verde e marrom) ps:Eu curtii ~Dan
-    --primary-color: #3e5902;
-    --second-color: #a66b37;
-    Opcao 6(Laranja e azul-escuro)
-    --primary-color: #f28705;
-    --second-color: #011126; */
     --primary-color: #b27634;
     --second-color: #90560e;
 }
